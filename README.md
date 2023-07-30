@@ -26,6 +26,14 @@ To run the Chat Application locally on your machine, follow these steps:
 4. Start the development server: `npm start`
 5. The application will be accessible at `http://localhost:3000` in your web browser.
 
+Set-up Chatengine
+1. Log on to chatengine.io.
+2. Create a project and name it.
+3. Add user and assign them username and passwords
+4. Create chatrooms(can be done here, or on the applications itself)
+5. Copy the API key and password, and replace them in the code.
+6. Restart the application
+
 ## Deployment
 
 The Chat Application is hosted on chatengine.io, so you don't need to deploy it yourself to use the live version. Simply visit the provided URL to start using the application.
