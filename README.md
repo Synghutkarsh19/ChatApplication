@@ -20,8 +20,8 @@ Welcome to our Chat Application built using React.js, HTML, and CSS, and hosted 
 
 To run the Chat Application locally on your machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/Synghutkarsh19/ChatApplication.git`
+2. Navigate to the project directory: `cd ChatApplication`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. The application will be accessible at `http://localhost:3000` in your web browser.
